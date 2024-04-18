@@ -35,3 +35,12 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenoforti&show_icons=true&theme=github_dark_dimmed)
 </div>
+
+<br>
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brenoforti&theme=github-dark-dimmed&card_width=900)](https://git.io/streak-stats)
+</div>
+
+<h1></h1>
