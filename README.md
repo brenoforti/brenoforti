@@ -7,3 +7,10 @@
 </div>
 
 <h1></h1>
+
+<br>
+
+<div align="center" style="display: inline_block">
+  <img align="center" alt="Forti-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Forti-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</div>
